@@ -5,26 +5,19 @@ int max_on_line = 8;
 int number_counter = 1;
 
 int main() {
-
+    
     for (; number_counter <= max_number; number_counter++) {
-        printf("%d", number_counter);
+        printf("%2d", number_counter);
         
         if (number_counter % 2 == 1) {
             printf("B ");
-
         }
             else {
                 printf("W ");
             }
-
-        if (number_counter <= 9) {
-            printf(" ");
-            
-        }
             
         if (number_counter % max_on_line == 0) {
             printf("\n");
-            
         }
     }
 }
