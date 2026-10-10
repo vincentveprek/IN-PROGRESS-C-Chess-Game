@@ -1,2 +1,5 @@
-# IN-PROGRESS-C-Chess-Game
-A lightweight, command-line chess implementation currently under active development in C. Built from scratch to explore low-level state representation, move validation logic, and terminal rendering.
+# Chess Game (Work in Progress)
+
+> ⚠️ **Active Development:** I am currently building, breaking, and refactoring this project daily as I explore Python algorithms, grid logic, and UI design.
+
+## 📅 Recent Updates
